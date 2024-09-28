@@ -9,11 +9,26 @@ p {
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
+    padding: 20px;
 }
 
 h1,
 h2 {
     font-family: Impact, serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border: brown;
 }
 
 .menu {
@@ -45,4 +60,4 @@ h2 {
     font-family: italic;
 }
 
-     /* Paso 57 freecodecamp */
+     /* Paso  freecodecamp */
