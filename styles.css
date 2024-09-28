@@ -11,6 +11,11 @@ body {
     font-family: sans-serif;
 }
 
+h1,
+h2 {
+    font-family: Impact, serif;
+}
+
 .menu {
     width: 80%;
     background-color: burlywood;
@@ -35,5 +40,9 @@ body {
     display: inline-block;
 }
 
+
+.established {
+    font-family: italic;
+}
 
      /* Paso 57 freecodecamp */
